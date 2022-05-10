@@ -1,0 +1,23 @@
+[
+  {
+    "CodProducto": "AAA",
+    
+    "NameProducto": "Tecnicas de fortnite",
+    "DescriProducto": "Arcade",
+    "PrecioCompra": 350,
+    "PrecioVenta": 500,
+    "Editorial": "tumbalacasamami",
+    "Categoria": "Cuentos de niños",
+    "Autor": "saramambiche"
+  },
+  {
+    "CodProducto": "BBB",
+    "NameProducto": "Tecnicas de fortnite",
+    "DescriProducto": "Arcade",
+    "PrecioCompra": 350,
+    "PrecioVenta": 500,
+    "Editorial": "ggs",
+    "Categoria": "Cuentos de niños",
+    "Autor": "xddd"
+  }
+]
